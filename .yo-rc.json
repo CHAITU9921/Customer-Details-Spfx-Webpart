@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "marketing",
+    "libraryId": "e3ba7e98-1656-4378-add5-4db07f5f42d1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "marketing",
+    "solutionShortDescription": "marketing description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
